@@ -1,0 +1,52 @@
+2023-10-10 15:54:50.751 +05:30 [INF] User profile is available. Using 'C:\Users\Aditya.pandey\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-10 15:54:50.918 +05:30 [INF] Now listening on: http://localhost:5289
+2023-10-10 15:54:50.921 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 15:54:50.922 +05:30 [INF] Hosting environment: Development
+2023-10-10 15:54:50.924 +05:30 [INF] Content root path: C:\Users\Aditya.pandey\source\repos\NZWalks\NZWalksAPI
+2023-10-10 15:54:52.415 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/index.html - -
+2023-10-10 15:54:52.786 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - -
+2023-10-10 15:54:52.797 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/index.html - - - 200 - text/html;charset=utf-8 383.5550ms
+2023-10-10 15:54:52.799 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_vs/browserLink - -
+2023-10-10 15:54:52.809 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - - - 200 12352 application/javascript;+charset=utf-8 22.3029ms
+2023-10-10 15:54:52.896 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 97.4724ms
+2023-10-10 15:54:52.998 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - -
+2023-10-10 15:54:53.199 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 201.2384ms
+2023-10-10 15:57:50.159 +05:30 [INF] User profile is available. Using 'C:\Users\Aditya.pandey\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-10 15:57:50.332 +05:30 [INF] Now listening on: http://localhost:5289
+2023-10-10 15:57:50.334 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 15:57:50.334 +05:30 [INF] Hosting environment: Development
+2023-10-10 15:57:50.335 +05:30 [INF] Content root path: C:\Users\Aditya.pandey\source\repos\NZWalks\NZWalksAPI
+2023-10-10 15:57:51.570 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/index.html - -
+2023-10-10 15:57:51.813 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - -
+2023-10-10 15:57:51.814 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_vs/browserLink - -
+2023-10-10 15:57:51.821 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - - - 200 12352 application/javascript;+charset=utf-8 5.6880ms
+2023-10-10 15:57:51.821 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/index.html - - - 200 - text/html;charset=utf-8 255.2106ms
+2023-10-10 15:57:51.879 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 64.4200ms
+2023-10-10 15:57:51.957 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - -
+2023-10-10 15:57:52.129 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 171.2494ms
+2023-10-10 15:58:49.217 +05:30 [INF] User profile is available. Using 'C:\Users\Aditya.pandey\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-10 15:58:49.461 +05:30 [INF] Now listening on: http://localhost:5289
+2023-10-10 15:58:49.463 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 15:58:49.463 +05:30 [INF] Hosting environment: Development
+2023-10-10 15:58:49.464 +05:30 [INF] Content root path: C:\Users\Aditya.pandey\source\repos\NZWalks\NZWalksAPI
+2023-10-10 15:58:50.972 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/index.html - -
+2023-10-10 15:58:51.221 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - -
+2023-10-10 15:58:51.228 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_vs/browserLink - -
+2023-10-10 15:58:51.237 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/index.html - - - 200 - text/html;charset=utf-8 267.3726ms
+2023-10-10 15:58:51.237 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - - - 200 12352 application/javascript;+charset=utf-8 13.0038ms
+2023-10-10 15:58:51.272 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.7533ms
+2023-10-10 15:58:51.366 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - -
+2023-10-10 15:58:51.548 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 182.6497ms
+2023-10-10 15:59:15.715 +05:30 [INF] User profile is available. Using 'C:\Users\Aditya.pandey\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-10 15:59:15.871 +05:30 [INF] Now listening on: http://localhost:5289
+2023-10-10 15:59:15.874 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 15:59:15.875 +05:30 [INF] Hosting environment: Development
+2023-10-10 15:59:15.876 +05:30 [INF] Content root path: C:\Users\Aditya.pandey\source\repos\NZWalks\NZWalksAPI
+2023-10-10 15:59:16.979 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/index.html - -
+2023-10-10 15:59:17.231 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/index.html - - - 200 - text/html;charset=utf-8 256.1756ms
+2023-10-10 15:59:17.248 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_vs/browserLink - -
+2023-10-10 15:59:17.248 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - -
+2023-10-10 15:59:17.252 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - - - 200 12352 application/javascript;+charset=utf-8 3.5160ms
+2023-10-10 15:59:17.282 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.2508ms
+2023-10-10 15:59:17.348 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - -
+2023-10-10 15:59:17.458 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 109.9471ms

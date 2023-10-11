@@ -1,0 +1,15 @@
+2023-10-10 12:42:13.895 +05:30 [INF] User profile is available. Using 'C:\Users\Aditya.pandey\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-10 12:42:14.165 +05:30 [INF] Now listening on: http://localhost:5289
+2023-10-10 12:42:14.169 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-10 12:42:14.171 +05:30 [INF] Hosting environment: Development
+2023-10-10 12:42:14.172 +05:30 [INF] Content root path: C:\Users\Aditya.pandey\source\repos\NZWalks\NZWalksAPI
+2023-10-10 12:42:16.622 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger - -
+2023-10-10 12:42:16.818 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger - - - 301 0 - 202.9252ms
+2023-10-10 12:42:16.834 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/index.html - -
+2023-10-10 12:42:17.197 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/index.html - - - 200 - text/html;charset=utf-8 363.3076ms
+2023-10-10 12:42:17.228 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - -
+2023-10-10 12:42:17.237 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_framework/aspnetcore-browser-refresh.js - - - 200 12352 application/javascript;+charset=utf-8 8.9030ms
+2023-10-10 12:42:17.265 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/_vs/browserLink - -
+2023-10-10 12:42:17.424 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 159.1151ms
+2023-10-10 12:42:17.647 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - -
+2023-10-10 12:42:17.832 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5289/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 185.1618ms
